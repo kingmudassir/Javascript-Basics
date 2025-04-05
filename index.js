@@ -1,2 +1,1 @@
-document.body.innerHTML = "Hello Mudassir!";
-document.body.innerHTML = ". How is your first git project going?";
+document.body.innerHTML = "Hello Mudassir! How is your first git project going?";
